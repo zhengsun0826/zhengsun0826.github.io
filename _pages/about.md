@@ -64,7 +64,7 @@ My research may involve the intersection of the following disciplines:
   </div>
   <div style="flex: 1;">
     <b>Developing a national black soil map of China through machine learning classification</b><br>
-    <b>Sun, Z.</b>, Liu, F., Wu, H, et al. <i>CATENA</i>, 2024. <a href="https://doi.org/10.1016/j.catena.2024.107993">DOI</a><br><br>
+    <b>Sun, Z.</b>, Liu, F., Wu, H., et al. <i>CATENA</i>, 2024. <a href="https://doi.org/10.1016/j.catena.2024.107993">DOI</a><br><br>
     Developing a high-resolution black soil (BS) distribution map in China, serving as an important tool for assessing BS resources.<br>
   </div>
 </div>
@@ -75,7 +75,7 @@ My research may involve the intersection of the following disciplines:
   </div>
   <div style="flex: 1;">
     <b>Improving 3D Digital Soil Mapping Based on Spatialized Lab Soil Spectral Information</b><br>
-    <b>Sun, Z.</b>, Liu, F., Wang, D, et al. <i>Remote Sensing</i>, 2023. <a href="https://doi.org/10.3390/rs15215228">DOI</a><br><br>
+    <b>Sun, Z.</b>, Liu, F., Wang, D., et al. <i>Remote Sensing</i>, 2023. <a href="https://doi.org/10.3390/rs15215228">DOI</a><br><br>
     Developing a technical framework to enhance the accuracy of 3D soil physicochemical properties mapping by using spatialized lab soil spectral maps as covariates.<br>
   </div>
 </div>
